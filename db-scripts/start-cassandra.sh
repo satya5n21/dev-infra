@@ -1,0 +1,1 @@
+cd ../cassandra && docker compose up -d

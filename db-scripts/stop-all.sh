@@ -1,0 +1,1 @@
+docker stop postgres cassandra redis
